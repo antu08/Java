@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Complex
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ complex\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Complex()
+comment2.params=c
+comment2.target=Complex(double)
+comment3.params=a\ d
+comment3.target=Complex(double,\ double)
+comment4.params=c
+comment4.target=Complex(Complex)
+comment5.params=oth
+comment5.target=Complex\ addWith(Complex)
+comment6.params=
+comment6.target=void\ display()
+comment7.params=
+comment7.target=void\ negate()
+comment8.params=c1
+comment8.target=Complex\ multiply(Complex)
+comment9.params=c1
+comment9.target=Complex\ division(Complex)
+numComments=10
