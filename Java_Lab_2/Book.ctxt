@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Book\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=bookName\ author\ maxPages
+comment1.target=Book(java.lang.String,\ java.lang.String,\ int)
+comment2.params=page
+comment2.target=void\ addPage(Page)
+comment3.params=keyword
+comment3.target=int\ countKeywordOccurrences(java.lang.String)
+comment4.params=keyword
+comment4.target=boolean\ containsKeyword(java.lang.String)
+comment5.params=
+comment5.target=void\ displayBook()
+numComments=6
