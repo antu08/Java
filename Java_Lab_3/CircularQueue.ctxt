@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CircularQueue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CircularQueue\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=size
+comment1.target=CircularQueue(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isFull()
+comment4.params=x
+comment4.target=void\ enqueue(int)
+comment5.params=
+comment5.target=void\ dequeue()
+comment6.params=
+comment6.target=void\ displayQueue()
+numComments=7
